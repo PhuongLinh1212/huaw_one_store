@@ -12,9 +12,9 @@
   "app_exists": {
     "id": "",
     "is_exists": true,
-    "is_show_more": true,
+    "is_show_more": false,
     "isLoading":false,
-    "isShowAds":false
+    "isShowAds":true
   },
   "apps": [
     {
