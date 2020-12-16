@@ -1,0 +1,30 @@
+{
+  "ads": {
+    "id_app": "",
+    "flury_id":"",
+    "banner_setting": "d6er6gt8lo",
+    "inter_setting": "x5z6pa0y1u",
+    "banner_main": "v9vk31z69k",
+    "inter_main": "f8urifg71j",
+    "onlyAdmod": true,
+    "onlyFB": false
+  }, 
+  "app_exists": {
+    "id": "com.autoclicker.free.automatictap.autoclicker",
+    "is_exists": true,
+    "is_show_more": false,
+    "isLoading":false,
+    "isShowAds":true
+  },
+  "apps": [
+    {
+      "id": "",
+      "icon": "",
+      "name": "",
+      "des": "",
+      "s1":"",
+      "s2":"",
+      "s3":""
+    }
+  ]
+}
